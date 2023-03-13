@@ -24,9 +24,11 @@
 1. Express(Try to represent problem) everything in terms of index
 2. Do all the stuffs on that index acc. to the problem statement
 3. Return the answer acc. to problem statement
-    like :  Sum of all stuffs -----> Count all ways
-            Min -------------------> Find minimum
-            Max -------------------> Find maximum
+    
+    ##### for e.g  
+    ###### Sum of all stuffs -----> Count all ways
+    ###### Min -------------------> Find minimum
+    ###### Max -------------------> Find maximum
 
 
 ### Memoized
